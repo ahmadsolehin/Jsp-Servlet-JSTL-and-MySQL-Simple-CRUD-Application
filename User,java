@@ -1,0 +1,9 @@
+package com.soleh.model;
+import java.util.Date;
+ 
+public class User {
+   String uname, password, email;
+   Date registeredon;
+ 
+    //put getter and setter here  
+}
